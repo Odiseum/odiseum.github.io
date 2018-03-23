@@ -1,7 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://odiseum.github.io" resolutions="1x" timestamp="1520486267357">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://odiseum.github.io" resolutions="1x" timestamp="1521788326835">
+  <folder name="assets">
+    <file name="mouhanimado.mp4" crc="3973622050" seo="true" mt="1521764946000"/>
+    <file name="bot-elementales.bmp" crc="466893757" seo="true" mt="1500326628000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3844382834" ref="index"/>
+    <file name="index.css" crc="3923571434" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,12 +14,62 @@
     <file name="museconfig.js" crc="380897831" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u3125.php" crc="351076070" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="moh studios.jpg" crc="3779751769" seo="true" ref="index">
+    <file name="moh1.jpg" crc="3966109405" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo_odiseum_s-u139.png" crc="3962312998" ref="index"/>
+    <file name="logo_odiseum_s.png" crc="3944304535" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nave elementales_b.jpg" crc="216805275" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="movie-296751_960_720.png" crc="4196334016" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moh2_b.jpg" crc="231645577" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 600x300-u2011.png" crc="4069454802" ref="index"/>
+    <file name="imagen pegada 512x512-u2054.png" crc="4211252575" ref="index"/>
+    <file name="imagen pegada 1600x1600-u2225.png" crc="4006748893" ref="index"/>
+    <file name="imagen pegada 1600x1600-u2191.png" crc="22093263" ref="index"/>
+    <file name="imagen pegada 200x200-u2133.png" crc="401392344" ref="index"/>
+    <file name="imagen pegada 1600x1600-u2113.png" crc="3774973144" ref="index"/>
+    <file name="imagen pegada 512x512-u2147.png" crc="4217967639" ref="index"/>
+    <file name="imagen pegada 256x256-u2123.png" crc="3924548341" ref="index"/>
+    <file name="neo_b.png" crc="453706637" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="departamentos.jpg" crc="3766344797" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="departamentos casa-crop-u2385.jpg" crc="4062839437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="departamentos casa interior_b.jpg" crc="4073114043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tenoch3.jpg" crc="3806229181" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bot elementales-crop-u2882.jpg" crc="4114605324" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mono de papel.jpg" crc="357457076" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casco vikingo_b.jpg" crc="322900389" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4002763173" seo="true" mt="1520486210779" redirect="true"/>
+  <file name="index.html" crc="4062715005" seo="true" mt="1521788306530" redirect="true"/>
 </manifest>

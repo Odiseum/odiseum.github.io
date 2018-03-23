@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://odiseum.github.io/index.html</loc>
-    <lastmod>2018-03-07</lastmod>
+    <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://odiseum.github.io/images/moh%20studios.jpg</image:loc>
+      <image:loc>https://odiseum.github.io/images/logo_odiseum_s.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://odiseum.github.io/images/departamentos%20casa-crop-u2385.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://odiseum.github.io/images/departamentos%20casa%20interior_b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://odiseum.github.io/images/bot%20elementales-crop-u2882.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://odiseum.github.io/images/mono%20de%20papel.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://odiseum.github.io/assets/mouhanimado.mp4</loc>
+    <lastmod>2018-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://odiseum.github.io/assets/bot-elementales.bmp</loc>
+    <lastmod>2017-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
