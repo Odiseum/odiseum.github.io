@@ -2,9 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://odiseum.github.io/index.html</loc>
-    <lastmod>2018-03-23</lastmod>
+    <lastmod>2018-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://odiseum.github.io/phone/index.html"/>
     <image:image>
       <image:loc>https://odiseum.github.io/images/logo_odiseum_s.png</image:loc>
     </image:image>
@@ -19,6 +20,18 @@
     </image:image>
     <image:image>
       <image:loc>https://odiseum.github.io/images/mono%20de%20papel.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://odiseum.github.io/images/casco%20vikingo_b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://odiseum.github.io/images/big%20cola_b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://odiseum.github.io/images/barco%20vikingo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://odiseum.github.io/images/map%20dolores%202.jpg</image:loc>
     </image:image>
   </url>
   <url>

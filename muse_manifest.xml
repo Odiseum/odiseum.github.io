@@ -1,32 +1,33 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://odiseum.github.io" resolutions="1x" timestamp="1521788326835">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://odiseum.github.io" resolutions="1x" timestamp="1522043979967">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4182727487" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="143140022" seo="true" mt="1522043816519" redirect="true"/>
+  </folder>
   <folder name="assets">
     <file name="mouhanimado.mp4" crc="3973622050" seo="true" mt="1521764946000"/>
     <file name="bot-elementales.bmp" crc="466893757" seo="true" mt="1500326628000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3923571434" ref="index"/>
+    <file name="index.css" crc="4038387342" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="3803043152" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="380897831" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:phone>index"/>
+    <file name="require.js" crc="4157109226" ref="index:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:phone>index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="form_check.php" crc="147359589" ref="index"/>
-    <file name="form_throttle.php" crc="93986428" ref="index"/>
-    <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u3125.php" crc="351076070" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="moh1.jpg" crc="3966109405" ref="index">
+    <file name="moh1.jpg" crc="4154190814" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo_odiseum_s.png" crc="3944304535" seo="true" ref="index">
+    <file name="logo_odiseum_s.png" crc="4179994670" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="nave elementales_b.jpg" crc="216805275" ref="index">
@@ -46,7 +47,8 @@
     <file name="imagen pegada 1600x1600-u2113.png" crc="3774973144" ref="index"/>
     <file name="imagen pegada 512x512-u2147.png" crc="4217967639" ref="index"/>
     <file name="imagen pegada 256x256-u2123.png" crc="3924548341" ref="index"/>
-    <file name="neo_b.png" crc="453706637" ref="index">
+    <file name="neo_b.png" crc="453706637" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="departamentos.jpg" crc="3766344797" ref="index">
@@ -55,10 +57,12 @@
     <file name="departamentos casa-crop-u2385.jpg" crc="4062839437" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="departamentos casa interior_b.jpg" crc="4073114043" seo="true" ref="index">
+    <file name="departamentos casa interior_b.jpg" crc="4073114043" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tenoch3.jpg" crc="3806229181" ref="index">
+    <file name="tenoch3.jpg" crc="3806229181" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="bot elementales-crop-u2882.jpg" crc="4114605324" seo="true" ref="index">
@@ -67,9 +71,65 @@
     <file name="mono de papel.jpg" crc="357457076" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="casco vikingo_b.jpg" crc="322900389" ref="index">
+    <file name="casco vikingo_b.jpg" crc="3771672002" ref="index" seo="true">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="principal-favicon.ico" crc="410324308" ref="phone>index"/>
+    <file name="moh1380x302.jpg" crc="3921858974" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_odiseum_s-crop-u3771.png" crc="191034065" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nave elementales_b-u3530-fr.jpg" crc="3930824108" ref="phone>index"/>
+    <file name="imagen pegada 600x300-u3541.png" crc="4275236009" ref="phone>index"/>
+    <file name="imagen pegada 512x512-u3543.png" crc="47488802" ref="phone>index"/>
+    <file name="imagen pegada 1600x1600-u3555.png" crc="4195463524" ref="phone>index"/>
+    <file name="imagen pegada 1600x1600-u3553.png" crc="192907676" ref="phone>index"/>
+    <file name="imagen pegada 200x200-u3549.png" crc="200226513" ref="phone>index"/>
+    <file name="imagen pegada 1600x1600-u3545.png" crc="536820977" ref="phone>index"/>
+    <file name="imagen pegada 512x512-u3551.png" crc="4171280197" ref="phone>index"/>
+    <file name="imagen pegada 256x256-u3547.png" crc="4260768050" ref="phone>index"/>
+    <file name="departamentos-u3557-fr.jpg" crc="3958373657" ref="phone>index"/>
+    <file name="departamentos casa-crop-u3559.jpg" crc="3771462217" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bot elementales-crop-u3567.jpg" crc="478617360" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mono de papel-crop-u3565.jpg" crc="421943632" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="big cola_b330x254.jpg" crc="347406581" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mockup pharma-u3582-fr.jpg" crc="264083828" ref="phone>index"/>
+    <file name="barco vikingo330x441.jpg" crc="408768643" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casco vikingo_b330x441.jpg" crc="517363839" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map dolores-u3583-fr.jpg" crc="326319049" ref="phone>index"/>
+    <file name="map dolores 2330x288.jpg" crc="381637192" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moh2_b-u3535-fr.jpg" crc="15461535" ref="phone>index"/>
+    <file name="big cola_b.jpg" crc="3805970353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mockup pharma.jpg" crc="4062929834" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barco vikingo.jpg" crc="274784778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map dolores.jpg" crc="4241040832" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map dolores 2.jpg" crc="3791843874" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4062715005" seo="true" mt="1521788306530" redirect="true"/>
+  <file name="index.html" crc="4111389593" seo="true" mt="1522043976636" redirect="true"/>
 </manifest>
